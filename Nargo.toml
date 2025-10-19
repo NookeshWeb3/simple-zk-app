@@ -1,0 +1,9 @@
+[package]
+name = "simple_circuit"
+type = "bin"
+ #bin means binary
+
+
+authors = ["khushii"]
+
+[dependencies]
